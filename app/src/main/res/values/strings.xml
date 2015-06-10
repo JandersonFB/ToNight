@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToNight</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtSenha">Senha</string>
+    <string name="edtNome">Nome</string>
+    <string name="edtSobrenome">Sobrenome</string>
+    <string name="btnEntrar">ENTRAR</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnLinkRegistrar">Não é membro? Registre-se.</string>
+    <string name="btnLinkEntrar">Você já é Registrado!</string>
+    <string name="txtBemVindo">Bem Vindo %s</string>
+    <string name="btnSair">Sair</string>
+
+</resources>
